@@ -1,8 +1,8 @@
-// let code = prompt("הכנס קוד:")
+let code = prompt("הכנס קוד:")
 
-// while (code != "abc123") {
-//     code = prompt("קוד שגוי, נסה שוב:")
-// }
+while (code != "abc123") {
+    code = prompt("קוד שגוי, נסה שוב:")
+}
 
 
 let taskElement = document.getElementById("taskId")
